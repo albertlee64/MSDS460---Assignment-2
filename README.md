@@ -1,5 +1,9 @@
 # MSDS460 - Assignment-2
 
+The Project Plan (version 8)
+
+Developed by Thomas W. Miller. Revised January 30, 2025.
+
 After many years of working for others, you have decided to start your own data science and software engineering firm. You will offer your services to other organizations as a sole proprietor and independent contractor. A first step in obtaining clients is often to respond to requests for proposal. 
 
 This assignment concerns a development project. Suppose a group of restaurant owners in Marlborough, Massachusetts is requesting a project proposal. They want to know how fast you can develop a new software product and how much it will cost.
