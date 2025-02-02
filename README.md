@@ -1,4 +1,4 @@
-# MSDS460---Assignment-2
+# MSDS460 - Assignment-2
 
 After many years of working for others, you have decided to start your own data science and software engineering firm. You will offer your services to other organizations as a sole proprietor and independent contractor. A first step in obtaining clients is often to respond to requests for proposal. 
 
