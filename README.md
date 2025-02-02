@@ -32,9 +32,9 @@ p.plot_network_diagram(plot_type = 'nx')
 
 Using LP PuLP Python Library to determine the total minimum project duration.
 
-> Decision Variables: Start times for each task and completion times
-> Objective Function: Minimize the Total Project Duration
-> Constraints: Predecessor Tasks and non-negative start times
+Decision Variables: Start times for each task and completion times
+Objective Function: Minimize the Total Project Duration
+Constraints: Predecessor Tasks and non-negative start times
 
  model = LpProblem('Project_Scheduling', LpMinimize)
 
