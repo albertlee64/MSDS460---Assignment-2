@@ -38,25 +38,9 @@ Using LP PuLP Python Library to determine the total minimum project duration.
 
  model = LpProblem('Project_Scheduling', LpMinimize)
 
+![image](https://github.com/user-attachments/assets/65c1f172-75a9-4c36-8b02-1dff09aa526b)
 
-Optimal Project Schedule:
-   Task  Start Time  Duration  Completion Time
-0     A         0.0       2.0              2.0
-1     B         0.0       4.0              4.0
-2     C         2.0       6.0              8.0
-3     D         0.0       0.0              0.0
-4    D1         2.0      80.0             82.0
-5    D2        82.0     120.0            202.0
-6    D3        82.0     120.0            202.0
-7    D4       202.0     720.0            922.0
-8    D5       922.0      80.0           1002.0
-9    D6       922.0     160.0           1082.0
-10   D7      1082.0     160.0           1242.0
-11   D8      1242.0      80.0           1322.0
-12    E         8.0      40.0             48.0
-13    F      1322.0      32.0           1354.0
-14    G      1322.0      16.0           1338.0
-15    H      1354.0      24.0           1378.0
+**Gantt Chart for Expected Hours**
 
-Total Project Completion Time: 1378.0 hours
-Solver Status: Optimal
+![image](https://github.com/user-attachments/assets/1f80eddd-70c8-4f03-b427-e112bb67a348)
+
