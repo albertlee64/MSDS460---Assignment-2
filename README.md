@@ -17,3 +17,9 @@ Determine best-case, expected, and worst-case estimates for the number of hours 
 **Project Plan**
 
 ![image](https://github.com/user-attachments/assets/e0fb0b2f-55e7-44dc-8d19-7216cd279afd)
+
+**Network Diagram**
+
+p.plot_network_diagram(plot_type = 'nx')
+
+![image](https://github.com/user-attachments/assets/6ef2403b-6a92-4a77-8853-871e9225345e)
