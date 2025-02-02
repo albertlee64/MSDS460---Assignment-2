@@ -46,3 +46,6 @@ Constraints: Predecessor Tasks and non-negative start times
 
 ![image](https://github.com/user-attachments/assets/1f80eddd-70c8-4f03-b427-e112bb67a348)
 
+**ChatGPT Usage**
+
+Leveraged ChatGPT to help develop the linear programmming model using Python PuLP. ChatGPT also helped with determining the optimal for the worst case and best case along with creating the Gantt Chart. ChatGPT conversation attached.
