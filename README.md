@@ -46,6 +46,11 @@ Constraints: Predecessor Tasks and non-negative start times
 
 ![image](https://github.com/user-attachments/assets/1f80eddd-70c8-4f03-b427-e112bb67a348)
 
+**Solution & Proposal**
+
+For the delivery of a custom software/application that creates a consumer-focused recommendation system for more than 100 hundred restaurants in the Marlborough, MA area, I would charge a Fixed Price contract of $860,000 with a delivered prototype in 42 weeks completion (or 1,680 hours). Realistically, a prototype could be done in short as 35 weeks BUT the 7 extra weeks allows provides slack within the project timeline. If additional subcontractors were considered, then the project could be done sooner but at a higher cost. Because it’s a Fixed Price contract, any delays to the project beyond the 42 weeks, the company will absorb the additional costs. Typical projects like this can last between ~5 to ~11 months. I am confident that the team can complete this within 42 weeks. If the client requires a Hypercare support period seen in many product releases like this, that would come at additional costs and a new SoW (Statement of Work) would need to be developed.![image](https://github.com/user-attachments/assets/e93af9b2-fde5-4cd4-bd94-d48a15eb3b84)
+
+
 **ChatGPT Usage**
 
 Leveraged ChatGPT to help develop the linear programmming model using Python PuLP. ChatGPT also helped with determining the optimal for the worst case and best case along with creating the Gantt Chart. ChatGPT conversation attached.
