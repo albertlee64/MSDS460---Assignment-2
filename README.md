@@ -16,20 +16,4 @@ Determine best-case, expected, and worst-case estimates for the number of hours 
 
 **Project Plan**
 
-taskID	task	predecessorTaskIDs	bestCaseHours	expectedHours	worstCaseHours	projectManager	frontendDeveloper	backendDeveloper	dataScientist	dataEngineer
-A	Describe product		1	2	3	$62 	$62 	$62 	$62 	$62 
-B	Develop marketing strategy		2	4	6	$62 	$62 	$62 	$62 	$62 
-C	Design brochure	A	3	6	9	$62 	$62 	$62 	$62 	$62 
-D	Develop product  prototype									
-D1	    Requirements analysis	A	40	80	120	$62 	$62 	$62 	$62 	$62 
-D2	    Software design	D1	80	120	160	$62 	$62 	$62 	$62 	$62 
-D3	    System design	D1	80	120	160	$62 	$62 	$62 	$62 	$62 
-D4	    Coding	D2, D3	480	720	960	$62 	$62 	$62 	$62 	$62 
-D5	    Write documentation	D4	40	80	120	$62 	$62 	$62 	$62 	$62 
-D6	    Unit testing	D4	120	160	240	$62 	$62 	$62 	$62 	$62 
-D7	    System testing	D6	120	160	240	$62 	$62 	$62 	$62 	$62 
-D8	    Package deliverables	D5, D7	40	80	120	$62 	$62 	$62 	$62 	$62 
-E	Survey potential market	B, C	20	40	60	$62 	$62 	$62 	$62 	$62 
-F	Develop pricing plan	D8, E	16	32	48	$62 	$62 	$62 	$62 	$62 
-G	Develop implementation  plan	A, D8	8	16	24	$62 	$62 	$62 	$62 	$62 
-H	Write client proposal	F, G	16	24	32	$62 	$62 	$62 	$62 	$62 ![image](https://github.com/user-attachments/assets/e0fb0b2f-55e7-44dc-8d19-7216cd279afd)
+![image](https://github.com/user-attachments/assets/e0fb0b2f-55e7-44dc-8d19-7216cd279afd)
